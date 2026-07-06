@@ -1,0 +1,35 @@
+.login{
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.cann
+{
+  box-sizing: border-box;
+  background-color: wheat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+  transition: width 0.4s ease-in-out;
+  border-radius: 5px;
+  
+}
+.cann:focus{
+  width: 25em;
+}
+.baslik{
+  font-weight: bold;
+}
+.btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.paket{
+text-align: center;
+margin: 10px;
+font-weight: bold;
+}
+

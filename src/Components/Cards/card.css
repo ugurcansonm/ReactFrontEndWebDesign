@@ -1,0 +1,24 @@
+.description{
+  text-transform: initial;
+  
+}
+
+img
+{
+  width: 200px;
+}
+
+.cards{
+  display: grid;
+  justify-content: center;
+  height: 200px;
+  
+  
+  
+}
+.header{
+  text-align: center;
+}
+
+
+  

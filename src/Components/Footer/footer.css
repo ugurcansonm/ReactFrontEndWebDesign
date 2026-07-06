@@ -1,0 +1,46 @@
+.main-footer
+{
+  display: grid;
+  color: white;
+  background-color: rgba(207, 24, 24, 0.938);
+  padding-top:3em;
+  margin: 10px 10px 0 10px ;
+  position: relative;
+  bottom: 0;
+  
+  
+  }
+
+.row{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+ 
+}
+.col-sm{
+    text-align: center;
+    
+}
+.menu-footer a
+{
+  display: block;
+  text-decoration: none;
+  color: white;
+  
+}
+
+.menu-footer a:hover{
+  color: black;
+}
+.col{
+  text-align: center;
+}
+
+@media only screen and (max-width: 912px) {
+  .col-3{
+    visibility: hidden;
+  }
+  
+  
+  
+}

@@ -1,0 +1,25 @@
+.sliderimg{
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  float: inline-end;
+  height: 500px;
+   object-fit: cover;
+}
+.page-container
+{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  background-color: whitesmoke;
+}
+.content.wrap
+{
+  flex: 1;
+  
+  
+}
+*{
+  font-family: Arial, Helvetica, sans-serif; 
+}
